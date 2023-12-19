@@ -1,0 +1,2 @@
+// 1. Constructor -> 2. Render - > 3. Component Did Mount -> 4. Render everytime when we called this.setState
+Whenever props get change the render gets called again
