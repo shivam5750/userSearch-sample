@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/shivam5750/userSearch-sample",
+  "homepage": "https://shivam5750.github.io/userSearch-sample",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
